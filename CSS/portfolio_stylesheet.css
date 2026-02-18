@@ -1,0 +1,36 @@
+*{
+	font-family: "M PLUS 1 Code", monospace;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+}
+.Header{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.Header h1{
+	font-size: 2em;
+}
+.Header a:link {
+  color: #000;
+  text-decoration: none;
+}
+
+.Header a:visited {
+  color: #000;
+  text-decoration: none;
+}
+.Header a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+.Header a:active {
+  color: #000;
+  text-decoration: underline;
+}
+.content {
+	margin: 5%;
+}
+.flexbox {
+	display: flex;
+}
